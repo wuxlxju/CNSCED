@@ -3,7 +3,7 @@ Dear researchers,
 
 Due to copyright issues, we can only provide part of the speech data in CNSCED on this website.
 
-If you want to obtain the complete data, please visit https://drive.google.com/drive/folders/1NyaTv8ASIpOQa64FQgHaHZJ1BGX-Nsq5?usp=drive_link
+If you want to obtain the complete data, please visit https://drive.google.com/drive/folders/1iHcoOgcrdZqJrnKNRFXTEfgTjQDK3uuE?usp=drive_link
 
 The file name includes speaker gender, speaker number, voice number, emotion category and intensity.
 
